@@ -2,4 +2,7 @@
 
 - Balloons
 - Confetti
+- Cake
+- Favors
+
 
