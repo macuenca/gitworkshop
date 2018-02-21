@@ -6,5 +6,5 @@
 - Favors
 - Pinata
 - Napkins
-- Buy things on Costco (Ask me for the memberhip password)
+- Buy things on Costco (Memberhip password, ask for it)
 
