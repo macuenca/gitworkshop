@@ -4,5 +4,6 @@
 - Confetti
 - Cake
 - Favors
-
+- Pinata
+- Napkins
 
