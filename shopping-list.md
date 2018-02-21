@@ -10,4 +10,7 @@
 
 - Eggs
 - Milk
+- Bananas
+- Mangoes
+
 
