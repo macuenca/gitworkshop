@@ -1,6 +1,6 @@
 ## Shopping List
 
-- Avocado
+- Organic Avocados
 - Tomatoes
 - Garlic
 - Cilantro
