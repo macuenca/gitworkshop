@@ -1,6 +1,6 @@
 ## Shopping List
 
-- Avocado
+- Avocado from Mexico
 - Tomatoes
 - Garlic
 - Cilantro
